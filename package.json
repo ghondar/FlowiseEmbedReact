@@ -8,8 +8,7 @@
   "scripts": {
     "dev": "rollup --watch --config rollup.config.js",
     "build": "rollup --config rollup.config.js",
-    "lint": "eslint --fix \"src/**/*.ts*\"",
-    "postinstall": "rollup --config rollup.config.js"
+    "lint": "eslint --fix \"src/**/*.ts*\""
   },
   "keywords": [],
   "license": "MIT",
