@@ -1,6 +1,6 @@
 /// <reference types="react" />
-import type { BotProps } from 'flowise-embed';
-type Props = BotProps & {
+import type { FullProps } from 'flowise-embed';
+type Props = FullProps & {
     style?: React.CSSProperties;
     className?: string;
 };
