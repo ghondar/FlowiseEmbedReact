@@ -25,7 +25,7 @@
 		"@types/node": "18.15.11",
 		"@types/react": "18.0.32",
 		"eslint": "8.37.0",
-		"flowise-embed": "github:ghondar/FlowiseChatEmbed#508aaa35f2d12347cfe706f78f86e0b97c6ebc39",
+		"flowise-embed": "github:ghondar/FlowiseChatEmbed#f90f58464544e7946f2d518ed4e2b8433e4968b1",
 		"react": "18.2.0",
 		"rollup": "3.20.2",
 		"rollup-plugin-typescript-paths": "1.4.0",
@@ -34,7 +34,7 @@
 		"typescript": "5.0.3"
 	},
 	"peerDependencies": {
-		"flowise-embed": "github:ghondar/FlowiseChatEmbed#508aaa35f2d12347cfe706f78f86e0b97c6ebc39",
+		"flowise-embed": "github:ghondar/FlowiseChatEmbed#f90f58464544e7946f2d518ed4e2b8433e4968b1",
 		"react": "18.x"
 	}
 }

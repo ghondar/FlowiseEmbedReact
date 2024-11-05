@@ -40,8 +40,8 @@ importers:
         specifier: 8.37.0
         version: 8.37.0
       flowise-embed:
-        specifier: github:ghondar/FlowiseChatEmbed#508aaa35f2d12347cfe706f78f86e0b97c6ebc39
-        version: https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/508aaa35f2d12347cfe706f78f86e0b97c6ebc39
+        specifier: github:ghondar/FlowiseChatEmbed#f90f58464544e7946f2d518ed4e2b8433e4968b1
+        version: https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/f90f58464544e7946f2d518ed4e2b8433e4968b1
       react:
         specifier: 18.2.0
         version: 18.2.0
@@ -1361,8 +1361,8 @@ packages:
   flatted@3.3.1:
     resolution: {integrity: sha512-X8cqMLLie7KsNUDSdzeN8FYK9rEt4Dt67OsG/DNGnYTSDBG4uFAJFBnUeiV+zCVAvwFy56IjM9sH51jVaEhNxw==}
 
-  flowise-embed@https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/508aaa35f2d12347cfe706f78f86e0b97c6ebc39:
-    resolution: {tarball: https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/508aaa35f2d12347cfe706f78f86e0b97c6ebc39}
+  flowise-embed@https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/f90f58464544e7946f2d518ed4e2b8433e4968b1:
+    resolution: {tarball: https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/f90f58464544e7946f2d518ed4e2b8433e4968b1}
     version: 2.0.6
 
   forwarded@0.2.0:
@@ -3768,7 +3768,7 @@ snapshots:
 
   flatted@3.3.1: {}
 
-  flowise-embed@https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/508aaa35f2d12347cfe706f78f86e0b97c6ebc39:
+  flowise-embed@https://codeload.github.com/ghondar/FlowiseChatEmbed/tar.gz/f90f58464544e7946f2d518ed4e2b8433e4968b1:
     dependencies:
       '@babel/core': 7.25.8
       '@microsoft/fetch-event-source': 2.0.1
